@@ -1,0 +1,11 @@
+C:\Code\DotNetCodeOpenShift\SampleApp\bin\Debug\netcoreapp2.0\SampleApp.deps.json
+C:\Code\DotNetCodeOpenShift\SampleApp\bin\Debug\netcoreapp2.0\SampleApp.runtimeconfig.json
+C:\Code\DotNetCodeOpenShift\SampleApp\bin\Debug\netcoreapp2.0\SampleApp.runtimeconfig.dev.json
+C:\Code\DotNetCodeOpenShift\SampleApp\bin\Debug\netcoreapp2.0\SampleApp.dll
+C:\Code\DotNetCodeOpenShift\SampleApp\bin\Debug\netcoreapp2.0\SampleApp.pdb
+C:\Code\DotNetCodeOpenShift\SampleApp\obj\Debug\netcoreapp2.0\SampleApp.csprojResolveAssemblyReference.cache
+C:\Code\DotNetCodeOpenShift\SampleApp\obj\Debug\netcoreapp2.0\SampleApp.csproj.CoreCompileInputs.cache
+C:\Code\DotNetCodeOpenShift\SampleApp\obj\Debug\netcoreapp2.0\SampleApp.AssemblyInfoInputs.cache
+C:\Code\DotNetCodeOpenShift\SampleApp\obj\Debug\netcoreapp2.0\SampleApp.AssemblyInfo.cs
+C:\Code\DotNetCodeOpenShift\SampleApp\obj\Debug\netcoreapp2.0\SampleApp.dll
+C:\Code\DotNetCodeOpenShift\SampleApp\obj\Debug\netcoreapp2.0\SampleApp.pdb
