@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/dotnet/dotnet-20-rhel7
+FROM microsoft/aspnetcore:2.0
 ARG source
 WORKDIR /app
 EXPOSE 80
