@@ -3,4 +3,4 @@ ARG source
 WORKDIR /opt/app-root/app
 EXPOSE 80
 ADD ${source:-obj/Docker/publish} .
-ENTRYPOINT ["dotnet", "SampleApp.dll"]
+CMD ["dotnet", "SampleApp.dll"]
